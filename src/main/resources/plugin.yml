@@ -1,0 +1,6 @@
+name: Signs
+version: '${project.version}'
+main: me.efekos.signs.Signs
+api-version: 1.20
+authors: [ efekos ]
+description: Sign any item!

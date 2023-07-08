@@ -1,0 +1,16 @@
+# Items that players will be unable to sign.
+# For all material names you can use here, see
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+blocked-items:
+  - 'DIAMOND'
+  - 'EMERALD'
+  - 'COMMAND_BLOCK'
+  - 'REPEAT_COMMAND_BLOCK'
+  - 'CHAIN_COMMAND_BLOCK'
+  - 'BEDROCK'
+  - 'BARRIER'
+  - 'OBSIDIAN'
+
+# When enabled, items will look like enchanted even when they are not after being signed.
+# If your server doesn't allow scams, it is not recommended enabling this. Because someone may make their items look enchanted by signing them, and try to sell them in ways where the other player can't see the item in an inventory. This might cause a chaos.
+enchanted-sign: false

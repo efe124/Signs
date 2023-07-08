@@ -1,0 +1,5 @@
+signed-by: '&7Signed by &b%player%' # Seen at the bottom of items when they got signed by someone
+signed: '&aSuccessfully signed this item!' # When someone uses /sign
+no-item: '&cThere is nothing in your hand' # When someone uses /sign but there is nothing in their main hand.
+not-signable: '&cItem in your hand is blocked for signing' # When someone tries to sign a blocked item.
+already-signed: '&cSomeone called &a%player%&c already signed this item.' # When someone tries to sign an item that has already been signed.
